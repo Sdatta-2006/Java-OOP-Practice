@@ -39,3 +39,4 @@ public class MergeFloat {
         sc.close();
     }
 }
+
