@@ -20,3 +20,4 @@ public class Minimum {
         System.out.printf("The minimum element in the array: %d",min);
     }
 }
+
